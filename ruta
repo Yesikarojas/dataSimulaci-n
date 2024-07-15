@@ -1,0 +1,57 @@
+***********RUTA PARA INSERTAR LOS REGISTROS******************
+\COPY Students (Name, Age, Document_Type, Document_Number) FROM 'students2.csv' DELIMITER ',' CSV HEADER;
+
+
+
+export const DB_USER = 'clskmylj'
+export const DB_HOST = 'surus.db.elephantsql.com'
+export const DB_PASSWORD = 'wm6r8FCSsIJyiFMHZI-9L4rbLWl5kDWx'
+export const DB_DATABASE = 'clskmylj'
+export const DB_PORT = 5432
+
+export const PORT = process.env.PORT || 3000;
+
+
+
+<div>
+   <label># Registros</label>
+   <input type='number' value={num} onChange={handleNum} />
+</div>
+
+
+<div className='p-5'>
+        <Table responsive="sm">
+          <thead>
+            <tr>
+              <th>Id</th>
+              <th>Grupo</th>
+              <th>Nombre</th>
+              <th>Creditos</th>
+            </tr>
+          </thead>
+          <tbody>
+            { students.map((student, id)=>(
+              <tr key = {student.id}>
+                <td>{student.id}</td>
+                <td>{student.name}</td>
+                <td>{student.age}</td>
+                <td>{student.document_type}</td>
+                <td>{student.document_number}</td>
+                <td>{student.status}</td>
+                <td>T</td>
+              </tr>
+            ))}
+          </tbody>
+        </Table>
+      </div>
+
+
+
+
+
+back debe ser una variable de entorno
+codigo del estudiante
+
+
+
+enviar estudiantes 

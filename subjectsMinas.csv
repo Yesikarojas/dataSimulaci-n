@@ -1,0 +1,56 @@
+Name,Classroom,Credits,Slots,Program_Id
+Cálculo Diferencial,AA_502,4,20,2
+Cátedra Universidad y Entorno,AA_205,3,20,2
+Competencias Comunicativas,AA_202,4,20,2
+Introducción a la Ingeniería,AA_310,3,20,2
+Química Analítica,AA_403,4,20,2
+Socio Humanística I,AA_302,3,20,2
+Álgebra Lineal,AA_106,3,20,2
+Algoritmos y Programación,AA_501,3,20,2
+Cálculo Integral,AA_405,3,20,2
+Dibujo Aplicado a la Minería,AA_206,3,20,2
+Física I (Mecánica),AA_304,4,20,2
+Socio Humanística II,AA_201,3,20,2
+Cálculo Multivariado,BINF_10,3,20,2
+Estadística,BINF_7,3,20,2
+Ética y Política,AA_409,4,20,2
+Física II (Ondas y Partículas),AA_405,4,20,2
+Geología General,AA_302,3,20,2
+Geometría Descriptiva,AA_104,3,20,2
+Ecuaciones Diferenciales,AA_302,3,20,2
+Estática,AA_101,3,20,2
+Física III (Electricidad y Magnetismo),BINF_6,4,20,2
+Geología Estructural,AA_504,3,20,2
+Mineralogía,AA_404,3,20,2
+Topografía General,BINF_7,3,20,2
+Desarrollo y Preparación Bajo Tierra,AA_504,3,20,2
+Mecánica de Fluidos e Hidráulica,AA_202,3,20,2
+Mecánica de Sólidos,AA_309,3,20,2
+Petrografía,AA_503,3,20,2
+Termodinámica,AA_109,3,20,2
+Topografía de Minas,BINF_6,3,20,2
+Administración,BINF_4,3,20,2
+Investigación de Operaciones,AA_107,3,20,2
+Mecánica de Suelos y Rocas,AA_502,3,20,2
+Metodología de la Investigación y Diseño Experimental,AA_409,3,20,2
+Ventilación de Minas,AA_503,3,20,2
+Yacimiento Minerales,AA_505,3,20,2
+Beneficio de Minerales,AA_102,3,20,2
+Economía,AA_305,3,20,2
+Maquinaria de Minas,AA_410,3,20,2
+Mecánica de Rocas Aplicada,AA_306,3,20,2
+Métodos de Explotación Bajo Tierra,AA_306,3,20,2
+Prospección y Evaluación de Yacimientos,BINF_7,3,20,2
+Carbones y Coquización,AA_105,3,20,2
+Electiva Profesional I,BINF_9,3,20,2
+Formulación y Evaluación de Proyectos,BINF_9,3,20,2
+Profundización I,BINF_10,3,20,2
+Sostenimiento de Minas,BINF_5,3,20,2
+Voladura de Rocas,AA_504,3,20,2
+Electiva Profesional II,AA_308,3,20,2
+Legislación Laboral Minera,BINF_10,3,20,2
+Manejo Ambiental,AA_409,3,20,2
+Métodos Explotación Superficial,AA_210,3,20,2
+Profundización II,BINF_6,3,20,2
+Planeamiento Minero,AA_209,3,20,2
+Seguridad de Minas,AA_110,3,20,2
