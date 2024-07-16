@@ -1,56 +1,56 @@
 Name,Classroom,Credits,Slots,Program_Id
-Cálculo Diferencial,AA_208,4,20,3
-Cátedra Universidad y Entorno,AA_208,3,20,3
-Competencias Comunicativas,AA_406,4,20,3
-Introducción a la Ingeniería,AA_207,3,20,3
-Química Analítica,AA_502,4,20,3
-Socio Humanística I,AA_206,3,20,3
-Álgebra Lineal,AA_204,3,20,3
-Algoritmos y Programación,AA_110,3,20,3
-Cálculo Integral,AA_108,3,20,3
-Dibujo Aplicado a la Minería,AA_303,3,20,3
-Física I (Mecánica),AA_103,4,20,3
-Socio Humanística II,AA_205,3,20,3
-Cálculo Multivariado,AA_207,3,20,3
-Estadística,AA_206,3,20,3
-Ética y Política,AA_109,4,20,3
-Física II (Ondas y Partículas),AA_203,4,20,3
-Geología General,AA_306,3,20,3
-Geometría Descriptiva,BINF_8,3,20,3
-Ecuaciones Diferenciales,AA_409,3,20,3
-Estática,AA_308,3,20,3
-Física III (Electricidad y Magnetismo),AA_103,4,20,3
-Geología Estructural,AA_204,3,20,3
-Mineralogía,AA_410,3,20,3
-Topografía General,AA_209,3,20,3
-Desarrollo y Preparación Bajo Tierra,BINF_2,3,20,3
+Cálculo Diferencial,AA_408,4,20,3
+Cátedra Universidad y Entorno,AA_503,3,20,3
+Competencias Comunicativas,AA_401,4,20,3
+Introducción a la Ingeniería,AA_201,3,20,3
+Química Analítica,AA_210,4,20,3
+Socio Humanística I,AA_303,3,20,3
+Álgebra Lineal,AA_108,3,20,3
+Algoritmos y Programación,AA_202,3,20,3
+Cálculo Integral,AA_107,3,20,3
+Dibujo Aplicado a la Minería,AA_104,3,20,3
+Física I (Mecánica),AA_504,4,20,3
+Socio Humanística II,AA_104,3,20,3
+Cálculo Multivariado,AA_505,3,20,3
+Estadística,BINF_3,3,20,3
+Ética y Política,AA_302,4,20,3
+Física II (Ondas y Partículas),AA_110,4,20,3
+Geología General,AA_410,3,20,3
+Geometría Descriptiva,BINF_6,3,20,3
+Ecuaciones Diferenciales,AA_305,3,20,3
+Estática,BINF_4,3,20,3
+Física III (Electricidad y Magnetismo),AA_203,4,20,3
+Geología Estructural,AA_308,3,20,3
+Mineralogía,AA_302,3,20,3
+Topografía General,AA_210,3,20,3
+Desarrollo y Preparación Bajo Tierra,BINF_10,3,20,3
 Mecánica de Fluidos e Hidráulica,BINF_7,3,20,3
-Mecánica de Sólidos,AA_304,3,20,3
-Petrografía,AA_204,3,20,3
+Mecánica de Sólidos,AA_210,3,20,3
+Petrografía,AA_105,3,20,3
 Termodinámica,AA_401,3,20,3
-Topografía de Minas,AA_104,3,20,3
-Administración,AA_101,3,20,3
-Investigación de Operaciones,AA_304,3,20,3
-Mecánica de Suelos y Rocas,AA_501,3,20,3
-Metodología de la Investigación y Diseño Experimental,AA_109,3,20,3
-Ventilación de Minas,BINF_7,3,20,3
-Yacimiento Minerales,AA_408,3,20,3
-Beneficio de Minerales,AA_502,3,20,3
-Economía,AA_501,3,20,3
-Maquinaria de Minas,AA_104,3,20,3
-Mecánica de Rocas Aplicada,AA_503,3,20,3
-Métodos de Explotación Bajo Tierra,AA_102,3,20,3
-Prospección y Evaluación de Yacimientos,AA_307,3,20,3
-Carbones y Coquización,AA_102,3,20,3
-Electiva Profesional I,AA_408,3,20,3
-Formulación y Evaluación de Proyectos,AA_406,3,20,3
-Profundización I,BINF_4,3,20,3
-Sostenimiento de Minas,AA_307,3,20,3
-Voladura de Rocas,AA_304,3,20,3
-Electiva Profesional II,AA_201,3,20,3
-Legislación Laboral Minera,BINF_10,3,20,3
-Manejo Ambiental,AA_202,3,20,3
-Métodos Explotación Superficial,AA_307,3,20,3
-Profundización II,AA_103,3,20,3
-Planeamiento Minero,AA_204,3,20,3
-Seguridad de Minas,AA_202,3,20,3
+Topografía de Minas,AA_210,3,20,3
+Administración,AA_305,3,20,3
+Investigación de Operaciones,AA_103,3,20,3
+Mecánica de Suelos y Rocas,AA_103,3,20,3
+Metodología de la Investigación y Diseño Experimental,AA_202,3,20,3
+Ventilación de Minas,BINF_4,3,20,3
+Yacimiento Minerales,AA_210,3,20,3
+Beneficio de Minerales,AA_504,3,20,3
+Economía,AA_105,3,20,3
+Maquinaria de Minas,BINF_8,3,20,3
+Mecánica de Rocas Aplicada,AA_102,3,20,3
+Métodos de Explotación Bajo Tierra,AA_505,3,20,3
+Prospección y Evaluación de Yacimientos,BINF_3,3,20,3
+Carbones y Coquización,AA_501,3,20,3
+Electiva Profesional I,BINF_1,3,20,3
+Formulación y Evaluación de Proyectos,AA_503,3,20,3
+Profundización I,AA_209,3,20,3
+Sostenimiento de Minas,BINF_10,3,20,3
+Voladura de Rocas,AA_202,3,20,3
+Electiva Profesional II,BINF_7,3,20,3
+Legislación Laboral Minera,AA_402,3,20,3
+Manejo Ambiental,AA_307,3,20,3
+Métodos Explotación Superficial,AA_102,3,20,3
+Profundización II,AA_108,3,20,3
+Planeamiento Minero,AA_408,3,20,3
+Seguridad de Minas,AA_210,3,20,3
