@@ -1,56 +1,52 @@
 Name,Classroom,Credits,Slots,Program_Id
-Cálculo Diferencial,AA_408,4,20,3
-Cátedra Universidad y Entorno,AA_503,3,20,3
-Competencias Comunicativas,AA_401,4,20,3
-Introducción a la Ingeniería,AA_201,3,20,3
-Química Analítica,AA_210,4,20,3
-Socio Humanística I,AA_303,3,20,3
-Álgebra Lineal,AA_108,3,20,3
-Algoritmos y Programación,AA_202,3,20,3
-Cálculo Integral,AA_107,3,20,3
-Dibujo Aplicado a la Minería,AA_104,3,20,3
-Física I (Mecánica),AA_504,4,20,3
-Socio Humanística II,AA_104,3,20,3
-Cálculo Multivariado,AA_505,3,20,3
-Estadística,BINF_3,3,20,3
-Ética y Política,AA_302,4,20,3
-Física II (Ondas y Partículas),AA_110,4,20,3
-Geología General,AA_410,3,20,3
-Geometría Descriptiva,BINF_6,3,20,3
-Ecuaciones Diferenciales,AA_305,3,20,3
-Estática,BINF_4,3,20,3
-Física III (Electricidad y Magnetismo),AA_203,4,20,3
-Geología Estructural,AA_308,3,20,3
-Mineralogía,AA_302,3,20,3
-Topografía General,AA_210,3,20,3
-Desarrollo y Preparación Bajo Tierra,BINF_10,3,20,3
-Mecánica de Fluidos e Hidráulica,BINF_7,3,20,3
-Mecánica de Sólidos,AA_210,3,20,3
-Petrografía,AA_105,3,20,3
-Termodinámica,AA_401,3,20,3
-Topografía de Minas,AA_210,3,20,3
-Administración,AA_305,3,20,3
-Investigación de Operaciones,AA_103,3,20,3
-Mecánica de Suelos y Rocas,AA_103,3,20,3
-Metodología de la Investigación y Diseño Experimental,AA_202,3,20,3
-Ventilación de Minas,BINF_4,3,20,3
-Yacimiento Minerales,AA_210,3,20,3
-Beneficio de Minerales,AA_504,3,20,3
-Economía,AA_105,3,20,3
-Maquinaria de Minas,BINF_8,3,20,3
-Mecánica de Rocas Aplicada,AA_102,3,20,3
-Métodos de Explotación Bajo Tierra,AA_505,3,20,3
-Prospección y Evaluación de Yacimientos,BINF_3,3,20,3
-Carbones y Coquización,AA_501,3,20,3
-Electiva Profesional I,BINF_1,3,20,3
-Formulación y Evaluación de Proyectos,AA_503,3,20,3
-Profundización I,AA_209,3,20,3
-Sostenimiento de Minas,BINF_10,3,20,3
-Voladura de Rocas,AA_202,3,20,3
-Electiva Profesional II,BINF_7,3,20,3
-Legislación Laboral Minera,AA_402,3,20,3
-Manejo Ambiental,AA_307,3,20,3
-Métodos Explotación Superficial,AA_102,3,20,3
-Profundización II,AA_108,3,20,3
-Planeamiento Minero,AA_408,3,20,3
-Seguridad de Minas,AA_210,3,20,3
+Cálculo I,AA_208,4,20,3
+Cátedra Universidad y Entorno,AA_206,3,20,3
+Competencias Comunicativas,BINF_4,4,20,3
+Expresión Gráfica y Geometría Descriptiva,AA_302,3,20,3
+Socio Humanística I,AA_401,3,20,3
+Álgebra Lineal,AA_301,3,20,3
+Cálculo II,BINF_7,3,20,3
+Física I,BINF_4,4,20,3
+Introducción a la Ingeniería,AA_107,3,20,3
+Socio Humanística II,AA_302,3,20,3
+Algoritmos y Programación,AA_204,3,20,3
+Cálculo III,AA_201,3,20,3
+Circuitos Eléctricos I,AA_304,3,20,3
+Ética y Política,AA_505,4,20,3
+Física II,AA_305,4,20,3
+Cálculo IV,AA_205,3,20,3
+Circuitos Eléctricos II,AA_306,3,20,3
+Electrónica I,AA_309,4,20,3
+Física III,BINF_9,4,20,3
+Probabilidad y Estadística,BINF_2,3,20,3
+Electiva en Programación,AA_406,3,20,3
+Electrónica Digital I,BINF_6,4,20,3
+Electrónica II,AA_309,4,20,3
+Física IV,AA_209,3,20,3
+Matemáticas Especiales,AA_104,3,20,3
+Medidas Eléctricas,AA_406,3,20,3
+Campos Electromagnéticos,AA_403,4,20,3
+Electrónica Digital II,AA_110,4,20,3
+Electrónica III,BINF_1,4,20,3
+Instrumentación,AA_208,3,20,3
+Señales y Sistemas,AA_206,3,20,3
+Comunicaciones I,AA_203,4,20,3
+Microelectrónica,AA_104,3,20,3
+Modelado de Sistemas,AA_504,4,20,3
+Máquinas Eléctricas I,AA_309,4,20,3
+Microcontroladores,AA_101,3,20,3
+Medios de Propagación,BINF_6,3,20,3
+Comunicaciones II,AA_505,3,20,3
+Control,AA_309,4,20,3
+Electrónica de Potencia,AA_502,3,20,3
+Procesamiento Digital de Señales,AA_102,4,20,3
+Máquinas Eléctricas II,BINF_7,4,20,3
+Microprocesadores,AA_305,3,20,3
+Administración,AA_402,4,20,3
+Seminario de Investigación en Ingeniería,AA_210,3,20,3
+Economía,AA_203,4,20,3
+Electiva I,AA_210,3,20,3
+Electiva II,AA_206,3,20,3
+Telemática,AA_101,3,20,3
+Electiva III,AA_410,3,20,3
+Electiva IV,AA_205,3,20,3

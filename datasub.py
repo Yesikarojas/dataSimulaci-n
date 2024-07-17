@@ -73,7 +73,7 @@ slots = 20
 program_id = 3
 
 # Nombre del archivo CSV
-nombre_archivo = 'subjectsElectronica.csv'
+nombre_archivo = 'subjectsElectronica1.csv'
 
 # Crear y escribir en el archivo CSV
 with open(nombre_archivo, mode='w', newline='', encoding='utf-8') as file:
